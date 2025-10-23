@@ -23,21 +23,19 @@ It is the short-circuit current through the load terminals. i.e., IN = Isc
 Norton’s Resistance, RN:It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
-
-**To measure IL**
-
-
-**To measure RTh or RN**
+![WhatsApp Image 2025-10-23 at 18 14 02_1b4e4e57](https://github.com/user-attachments/assets/fa00e728-b8a1-4a26-99a4-b9bdf39e364b)
 
 
+**THEORETICAL CALCULATION:**
+![WhatsApp Image 2025-10-23 at 18 14 02_33c6c446](https://github.com/user-attachments/assets/cebb678c-eca1-4aac-9361-bcdc65f8dbc7)
+![WhatsApp Image 2025-10-23 at 18 14 02_fa6113c4](https://github.com/user-attachments/assets/fe50d815-a39e-4ef8-9cb1-4f50504bc33b)
+![WhatsApp Image 2025-10-23 at 18 14 03_ec2a59e6](https://github.com/user-attachments/assets/c4087afc-31a9-4618-b76f-b2e9b5c16e82)
 
-**To measure IN or Isc**
+**OBSERVATION:**
+![WhatsApp Image 2025-10-23 at 18 14 03_68977f58](https://github.com/user-attachments/assets/811f2289-582f-48b1-810a-1c893a303786)
 
- 
-**Thevenin’s equivalent circuit**
-
-
-**Norton’s equivalent circuit**
+**MARK SPLIT UP:**
+![WhatsApp Image 2025-10-23 at 18 14 04_df158c52](https://github.com/user-attachments/assets/dd208dec-9396-4d54-a0b8-1d0ac221eccb)
 
 
 **PROCEDURE:**
@@ -69,36 +67,6 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
    	Norton’s Theorem IL = IN * RN / ( RN + RL )
 
 12.	Theoretically verify the Norton’s theorem.
-
-**TABULAR COLUMN: 1**
-To measure I L
-
-Vi (volts)	IL (amps)
-
-**TABULAR COLUMN:2**
-
-To measure RTh or RN
-
-Vi (volts)	RTh (Ω)
-
-
-**TABULAR COLUMN:3**
-
-To measure IN or Isc
-
-Vi (volts)	IN (amps)
-	
-**MODEL CALCULATION:**
-
-Practical value of IL (from tabulation 1) =2.3mA
-
-**Verification of Norton’s theorem**
-
-IL = IN * RN / ( RN+ RL ) = 2.43mA
-
-Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
- 
-
 
 **RESULT:**
 
